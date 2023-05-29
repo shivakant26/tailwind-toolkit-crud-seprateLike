@@ -1,0 +1,16 @@
+*{
+    box-sizing: border-box;
+}
+
+.container{
+    width: 1200px;
+    margin: 0 auto;
+}
+.home_page{
+    background-color: aqua;
+}
+h1{
+    background-color: aqua;
+    margin: 0;
+    padding: 0;
+}
